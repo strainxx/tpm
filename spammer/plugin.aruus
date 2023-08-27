@@ -1,0 +1,5 @@
+.name = "Chat Spammer"
+.description = "I dont take any responsibly for bans"
+.author = "Aruus Dev"
+.version = "0.1"
+.otherModules = "false"

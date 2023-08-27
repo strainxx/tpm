@@ -1,0 +1,5 @@
+.name = "Test Plugin"
+.description = "oh..."
+.author = "Aruus Dev"
+.version = "7.7.7"
+.otherModules = "false"
